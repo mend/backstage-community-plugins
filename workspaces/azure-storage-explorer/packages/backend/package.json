@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@backstage-community/plugin-azure-storage-explorer-backend": "workspace:^",
-    "@backstage/backend-defaults": "^0.11.1",
+    "@backstage/backend-defaults": "^0.12.0",
     "@backstage/catalog-client": "^1.10.2",
     "@backstage/config": "^1.3.3",
     "@backstage/plugin-app-backend": "^0.5.4",
