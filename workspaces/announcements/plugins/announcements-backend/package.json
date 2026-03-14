@@ -68,7 +68,7 @@
   },
   "devDependencies": {
     "@backstage/cli": "^0.34.0",
-    "@backstage/plugin-auth-backend": "^0.25.3",
+    "@backstage/plugin-auth-backend": "^0.27.0",
     "@backstage/plugin-auth-backend-module-guest-provider": "^0.2.11",
     "@backstage/plugin-catalog-node": "^1.18.0",
     "@backstage/plugin-permission-backend": "^0.7.3",
