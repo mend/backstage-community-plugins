@@ -41,7 +41,7 @@
     "@material-ui/core": "^4.12.4",
     "@material-ui/lab": "^4.0.0-alpha.61",
     "@react-hookz/web": "^24.0.4",
-    "zod": "^3.23.8"
+    "zod": "^4.0.0"
   },
   "peerDependencies": {
     "react": "^16.13.1 || ^17.0.0 || ^18.0.0",
