@@ -22404,8 +22404,8 @@ __metadata:
   linkType: hard
 
 "http-proxy-middleware@npm:^2.0.0, http-proxy-middleware@npm:^2.0.3":
-  version: 2.0.9
-  resolution: "http-proxy-middleware@npm:2.0.9"
+  version: 2.0.12
+  resolution: "http-proxy-middleware@npm:2.0.12"
   dependencies:
     "@types/http-proxy": "npm:^1.17.8"
     http-proxy: "npm:^1.18.1"
@@ -22417,13 +22417,13 @@ __metadata:
   peerDependenciesMeta:
     "@types/express":
       optional: true
-  checksum: 10/4ece416a91d52e96f8136c5f4abfbf7ac2f39becbad21fa8b158a12d7e7d8f808287ff1ae342b903fd1f15f2249dee87fabc09e1f0e73106b83331c496d67660
+  checksum: 10/63e159d2d1f956070bda6e4ac98b2427f0abebd11bb292f9838f06ce6eaf4aa73ca9b5a86c98ecbc0f6eb37c2f00fd1f24a840a51c7cd6244d086c804fe1cac3
   languageName: node
   linkType: hard
 
 "http-proxy-middleware@npm:^3.0.0":
-  version: 3.0.5
-  resolution: "http-proxy-middleware@npm:3.0.5"
+  version: 3.0.11
+  resolution: "http-proxy-middleware@npm:3.0.11"
   dependencies:
     "@types/http-proxy": "npm:^1.17.15"
     debug: "npm:^4.3.6"
@@ -22431,7 +22431,7 @@ __metadata:
     is-glob: "npm:^4.0.3"
     is-plain-object: "npm:^5.0.0"
     micromatch: "npm:^4.0.8"
-  checksum: 10/83c1956be6451a5f4a2f3c7b3d84085dbd47e1efb5bb684c1ed668a6606c18c7c07be823b0dbba1326955b64cf88de2672492940b0b48d140215fbdb06105c9a
+  checksum: 10/e566e618e3033a42f733a205cfb0bfe465c6b344bd60c05443309b84c68d917e857263c8adeb0a7801113d397ee2a513db2185220c6fe3ba4581db7696aea486
   languageName: node
   linkType: hard
 
