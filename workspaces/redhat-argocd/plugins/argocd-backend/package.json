@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@backstage-community/plugin-redhat-argocd-common": "workspace:^",
-    "@backstage/backend-defaults": "^0.12.0",
+    "@backstage/backend-defaults": "^0.17.0",
     "@backstage/backend-plugin-api": "^1.4.2",
     "@backstage/catalog-client": "^1.11.0",
     "@backstage/config": "^1.3.3",
