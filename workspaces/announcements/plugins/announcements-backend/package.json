@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@backstage-community/plugin-announcements-common": "workspace:^",
-    "@backstage/backend-defaults": "^0.12.0",
+    "@backstage/backend-defaults": "^0.17.0",
     "@backstage/backend-plugin-api": "^1.4.2",
     "@backstage/backend-test-utils": "^1.8.0",
     "@backstage/catalog-client": "^1.11.0",

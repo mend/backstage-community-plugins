@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@backstage-community/plugin-npm-common": "workspace:^",
-    "@backstage/backend-defaults": "^0.12.0",
+    "@backstage/backend-defaults": "^0.17.0",
     "@backstage/backend-plugin-api": "^1.4.2",
     "@backstage/errors": "^1.2.7",
     "@backstage/plugin-catalog-node": "^1.18.0",

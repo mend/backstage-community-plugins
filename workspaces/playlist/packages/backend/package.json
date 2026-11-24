@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@backstage-community/plugin-playlist-backend": "workspace:^",
-    "@backstage/backend-defaults": "^0.12.0",
+    "@backstage/backend-defaults": "^0.17.0",
     "@backstage/backend-plugin-api": "^1.4.2",
     "@backstage/plugin-app-backend": "^0.5.5",
     "@backstage/plugin-auth-backend": "^0.25.3",

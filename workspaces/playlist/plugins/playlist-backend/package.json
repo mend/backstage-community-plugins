@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@backstage-community/plugin-playlist-common": "workspace:^",
-    "@backstage/backend-defaults": "^0.12.0",
+    "@backstage/backend-defaults": "^0.17.0",
     "@backstage/backend-plugin-api": "^1.4.2",
     "@backstage/catalog-client": "^1.11.0",
     "@backstage/catalog-model": "^1.7.5",
@@ -58,7 +58,7 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
-    "@backstage/backend-defaults": "^0.12.0",
+    "@backstage/backend-defaults": "^0.17.0",
     "@backstage/backend-test-utils": "^1.8.0",
     "@backstage/cli": "^0.34.0",
     "@backstage/plugin-auth-backend": "^0.25.3",
