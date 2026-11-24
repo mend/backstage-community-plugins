@@ -24231,14 +24231,14 @@ __metadata:
   linkType: hard
 
 "tar-fs@npm:^2.1.0":
-  version: 2.1.3
-  resolution: "tar-fs@npm:2.1.3"
+  version: 2.1.6
+  resolution: "tar-fs@npm:2.1.6"
   dependencies:
     chownr: "npm:^1.1.1"
     mkdirp-classic: "npm:^0.5.2"
     pump: "npm:^3.0.0"
     tar-stream: "npm:^2.1.4"
-  checksum: 10/37fdfd3aa73f4f49c0821ef75f67647ecafd5370d2e311d9ace6ff3825ff4355014055c3d43407c6a655adf6c5bfb0cbcf93412161dad5af7110eb7d7a0c2eae
+  checksum: 10/4d8166356ee335b9dc43fc284e6148244171315f07b8b2e7c545b972ada02d9fb1a9206087da65eefb591980332cbab5260d634f2c978185b736c53b7554608b
   languageName: node
   linkType: hard
 
