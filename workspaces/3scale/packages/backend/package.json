@@ -31,7 +31,7 @@
     "@backstage/plugin-catalog-backend": "^3.0.0",
     "@backstage/plugin-catalog-backend-module-logs": "^0.1.12",
     "@backstage/plugin-catalog-backend-module-scaffolder-entity-model": "^0.2.10",
-    "@backstage/plugin-scaffolder-backend": "^2.1.0",
+    "@backstage/plugin-scaffolder-backend": "^4.0.0",
     "app": "link:../app",
     "better-sqlite3": "^9.0.0",
     "node-gyp": "^10.0.0",
